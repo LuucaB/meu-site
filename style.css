@@ -40,11 +40,6 @@ body {
         color:  #9061c2;
         
     }
-
-    & h2 {
-        color:  #9061c2;
-        font-size: 35px;
-    }
 }
 
 .time-g:hover {
@@ -71,4 +66,15 @@ body {
 .btn-primary:active {
     transition: 0.1s;
     scale: 0.9;
+}
+
+
+
+@media only screen and (max-width: 450px) {
+    .time-g {
+
+        & h1 {
+            font-size: 30px;
+        }
+    }
 }
