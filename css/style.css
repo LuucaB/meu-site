@@ -299,7 +299,7 @@ body.sidebar-open .sidebar-overlay {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  background-image: url("assets/colegio.jpeg");
+  background-image: url("./assets/colegio.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
